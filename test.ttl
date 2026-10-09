@@ -9,3 +9,4 @@ tb:Step a owl:Class .
 tb:followedBy a owl:ObjectProperty ;
     rdfs:domain tb:Step ;
     rdfs:range tb:Step .
+  
